@@ -1,10 +1,38 @@
 {
-  "metadata": {
-    "lastUpdated": "2025-09-21T20:35:02.534Z",
-    "version": "1.0.0",
-    "storageType": "github"
+  "totalSlots": 3,
+  "availableSlots": 3,
+  "urgentSlots": 1,
+  "currentQueue": 0,
+  "estimatedCompletionTime": "1-2 weeks",
+  "status": "open",
+  "pricing": {
+    "sketch": {
+      "price": 15,
+      "description": "Basic sketch"
+    },
+    "halfBody": {
+      "price": 40,
+      "description": "Half body illustration"
+    },
+    "fullBody": {
+      "price": 70,
+      "description": "Full body illustration"
+    },
+    "fullIllustration": {
+      "price": 120,
+      "description": "Full illustration with background"
+    },
+    "urgentFee": {
+      "price": 20,
+      "description": "Rush order additional fee"
+    }
   },
   "settings": {
+    "autoStatusUpdate": true,
+    "notificationsEnabled": true,
+    "maintenanceMode": false,
+    "nextAvailability": null,
+    "acceptNewCommissions": true,
     "totalSlots": 3,
     "urgentSlots": 1,
     "status": "limited",
@@ -12,6 +40,11 @@
     "estimatedTime": "2-4 weeks"
   },
   "commissions": [],
+  "metadata": {
+    "lastUpdated": "2025-09-21T20:35:02.534Z",
+    "version": "1.0.0",
+    "storageType": "github"
+  },
   "queue": [],
   "stats": {
     "completed": 0,
