@@ -7,24 +7,32 @@
   "status": "open",
   "pricing": {
     "sketch": {
-      "price": 15,
-      "description": "Basic sketch"
+      "price": 100,
+      "description": "Upper Body",
+      "title": "Bust Up"
     },
     "halfBody": {
-      "price": 40,
+      "price": 200,
       "description": "Half body illustration"
     },
     "fullBody": {
-      "price": 70,
+      "price": 250,
       "description": "Full body illustration"
     },
     "fullIllustration": {
-      "price": 120,
+      "price": 300,
       "description": "Full illustration with background"
     },
     "urgentFee": {
       "price": 20,
-      "description": "Rush order additional fee"
+      "description": "Rush order additional fee",
+      "order": 1
+    },
+    "characterDesign": {
+      "title": "Character Design",
+      "price": 1000,
+      "description": "Reference sheet, expression sheet, front, side and back view",
+      "order": 0
     }
   },
   "settings": {
