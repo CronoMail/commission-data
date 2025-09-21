@@ -1,7 +1,7 @@
 {
   "totalSlots": 2,
   "availableSlots": 2,
-  "urgentSlots": 0,
+  "urgentSlots": 1,
   "currentQueue": 0,
   "estimatedCompletionTime": "1-2 weeks",
   "status": "open",
