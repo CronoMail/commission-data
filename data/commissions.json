@@ -26,13 +26,13 @@
     "urgentFee": {
       "price": 20,
       "description": "Rush order additional fee",
-      "order": 1
+      "order": 0
     },
     "characterDesign": {
       "title": "Character Design",
       "price": 1000,
       "description": "Reference sheet, expression sheet, front, side and back view",
-      "order": 0
+      "order": 1
     }
   },
   "settings": {
