@@ -4,7 +4,7 @@
   "urgentSlots": 1,
   "currentQueue": 0,
   "estimatedCompletionTime": "1-2 weeks",
-  "status": "limited",
+  "status": "open",
   "pricing": {
     "sketch": {
       "price": 100,
@@ -36,7 +36,7 @@
     }
   },
   "settings": {
-    "autoStatusUpdate": false,
+    "autoStatusUpdate": true,
     "notificationsEnabled": true,
     "maintenanceMode": false,
     "nextAvailability": null,
