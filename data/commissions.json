@@ -1,10 +1,10 @@
 {
-  "totalSlots": 3,
-  "availableSlots": 3,
+  "totalSlots": 2,
+  "availableSlots": 2,
   "urgentSlots": 1,
   "currentQueue": 0,
   "estimatedCompletionTime": "1-2 weeks",
-  "status": "open",
+  "status": "limited",
   "pricing": {
     "sketch": {
       "price": 100,
@@ -17,13 +17,11 @@
     },
     "fullBody": {
       "price": 250,
-      "description": "Full body illustration",
-      "order": 0
+      "description": "Full body illustration"
     },
     "fullIllustration": {
       "price": 300,
-      "description": "Full illustration with background",
-      "order": 0
+      "description": "Full illustration with background"
     },
     "urgentFee": {
       "price": 20,
@@ -38,7 +36,7 @@
     }
   },
   "settings": {
-    "autoStatusUpdate": true,
+    "autoStatusUpdate": false,
     "notificationsEnabled": true,
     "maintenanceMode": false,
     "nextAvailability": null,
