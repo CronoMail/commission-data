@@ -10,37 +10,37 @@
       "title": "Bust up",
       "price": 100,
       "description": "",
-      "order": 0
+      "order": 1
     },
     "halfBody": {
       "title": "Half Body",
       "price": 200,
       "description": "Half body illustration",
-      "order": 1
+      "order": 2
     },
     "fullBody": {
       "title": "Full Body",
       "price": 250,
       "description": "Full body illustration",
-      "order": 2
+      "order": 3
     },
     "fullIllustration": {
       "title": "Full Illustration",
       "price": 300,
       "description": "Full illustration with background",
-      "order": 3
+      "order": 4
     },
     "urgentFee": {
       "title": "Rush Order",
       "price": 20,
       "description": "Rush order additional fee",
-      "order": 5
+      "order": 6
     },
     "design": {
       "title": "Character Design",
       "price": 1000,
       "description": "Character Design",
-      "order": 4
+      "order": 5
     }
   },
   "settings": {
