@@ -14,13 +14,13 @@
     },
     "halfBody": {
       "title": "Half Body",
-      "price": 200,
+      "price": 150,
       "description": "Half body illustration",
       "order": 1
     },
     "fullBody": {
       "title": "Full Body",
-      "price": 250,
+      "price": 200,
       "description": "Full body illustration",
       "order": 2
     },
@@ -72,7 +72,7 @@
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2025-09-22T16:43:24.705Z",
+    "lastUpdated": "2025-09-22T19:39:36.668Z",
     "version": "1.0.0",
     "storageType": "github"
   }
