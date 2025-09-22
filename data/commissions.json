@@ -28,13 +28,13 @@
       "title": "Full Illustration",
       "price": 300,
       "description": "Full illustration with background",
-      "order": 3
+      "order": 4
     },
     "urgentFee": {
       "title": "Rush Order",
       "price": 20,
       "description": "Rush order additional fee",
-      "order": 4
+      "order": 3
     },
     "design": {
       "title": "Character Design",
@@ -72,7 +72,7 @@
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2025-09-22T14:08:16.210Z",
+    "lastUpdated": "2025-09-22T14:09:03.975Z",
     "version": "1.0.0",
     "storageType": "github"
   }
