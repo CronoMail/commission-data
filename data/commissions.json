@@ -1,10 +1,10 @@
 {
-  "totalSlots": 4,
-  "availableSlots": 2,
+  "totalSlots": 2,
+  "availableSlots": 1,
   "urgentSlots": 0,
   "currentQueue": 1,
-  "estimatedCompletionTime": "2+ months",
-  "status": "open",
+  "estimatedCompletionTime": "1-2 weeks",
+  "status": "limited",
   "pricing": {
     "sketch": {
       "title": "Bust up",
@@ -72,7 +72,7 @@
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2025-09-22T14:35:17.484Z",
+    "lastUpdated": "2025-09-22T16:43:24.705Z",
     "version": "1.0.0",
     "storageType": "github"
   }
