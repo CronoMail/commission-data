@@ -10,13 +10,13 @@
       "title": "Bust up",
       "price": 100,
       "description": "",
-      "order": 0
+      "order": 1
     },
     "halfBody": {
       "title": "Half Body",
       "price": 200,
       "description": "Half body illustration",
-      "order": 1
+      "order": 0
     },
     "fullBody": {
       "title": "Full Body",
@@ -70,5 +70,10 @@
       "priority": "urgent"
     }
   ],
-  "manualEstimatedTime": true
+  "manualEstimatedTime": true,
+  "metadata": {
+    "lastUpdated": "2025-09-22T14:05:38.800Z",
+    "version": "1.0.0",
+    "storageType": "github"
+  }
 }
