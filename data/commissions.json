@@ -1,42 +1,46 @@
 {
-  "totalSlots": 2,
+  "totalSlots": 4,
   "availableSlots": 2,
   "urgentSlots": 0,
-  "currentQueue": 0,
-  "estimatedCompletionTime": "1-2 weeks",
+  "currentQueue": 1,
+  "estimatedCompletionTime": "2+ months",
   "status": "limited",
   "pricing": {
     "sketch": {
+      "title": "Bust up",
       "price": 100,
-      "description": "Upper Body",
-      "title": "Bust Up",
+      "description": "",
       "order": 0
     },
     "halfBody": {
+      "title": "Half Body",
       "price": 200,
       "description": "Half body illustration",
-      "order": 0
-    },
-    "fullBody": {
-      "price": 250,
-      "description": "Full body illustration",
-      "order": 0
-    },
-    "fullIllustration": {
-      "price": 300,
-      "description": "Full illustration with background",
-      "order": 0
-    },
-    "urgentFee": {
-      "price": 20,
-      "description": "Rush order additional fee",
       "order": 1
     },
-    "characterDesign": {
+    "fullBody": {
+      "title": "Full Body",
+      "price": 250,
+      "description": "Full body illustration",
+      "order": 2
+    },
+    "fullIllustration": {
+      "title": "Full Illustration",
+      "price": 300,
+      "description": "Full illustration with background",
+      "order": 3
+    },
+    "urgentFee": {
+      "title": "Rush Order",
+      "price": 20,
+      "description": "Rush order additional fee",
+      "order": 5
+    },
+    "design": {
       "title": "Character Design",
       "price": 1000,
-      "description": "Reference sheet, expression sheet, front, side and back view",
-      "order": 0
+      "description": "Character Design",
+      "order": 4
     }
   },
   "settings": {
@@ -44,24 +48,27 @@
     "notificationsEnabled": true,
     "maintenanceMode": false,
     "nextAvailability": null,
-    "acceptNewCommissions": true,
-    "totalSlots": 3,
-    "urgentSlots": 1,
-    "status": "limited",
-    "priceRange": "$50-500",
-    "estimatedTime": "2-4 weeks"
+    "acceptNewCommissions": true
   },
-  "commissions": [],
-  "metadata": {
-    "lastUpdated": "2025-09-21T20:35:02.534Z",
-    "version": "1.0.0",
-    "storageType": "github"
-  },
-  "queue": [],
-  "stats": {
-    "completed": 0,
-    "inProgress": 0,
-    "pending": 0,
-    "totalRevenue": 0
-  }
+  "commissions": [
+    {
+      "id": 1,
+      "clientName": "Client A",
+      "type": "fullBody",
+      "status": "in-progress",
+      "dateCreated": "2025-09-15",
+      "deadline": "2025-10-01",
+      "priority": "normal"
+    },
+    {
+      "id": 2,
+      "clientName": "Client B",
+      "type": "fullIllustration",
+      "status": "queued",
+      "dateCreated": "2025-09-18",
+      "deadline": "2025-10-15",
+      "priority": "urgent"
+    }
+  ],
+  "manualEstimatedTime": true
 }
