@@ -4,11 +4,11 @@
   "urgentSlots": 0,
   "currentQueue": 1,
   "estimatedCompletionTime": "2+ months",
-  "status": "limited",
+  "status": "open",
   "pricing": {
     "sketch": {
       "title": "Bust up",
-      "price": 100,
+      "price": 4,
       "description": "",
       "order": 0
     },
@@ -34,13 +34,13 @@
       "title": "Rush Order",
       "price": 20,
       "description": "Rush order additional fee",
-      "order": 4
+      "order": 5
     },
     "design": {
       "title": "Character Design",
       "price": 1000,
       "description": "Character Design",
-      "order": 5
+      "order": 4
     }
   },
   "settings": {
@@ -70,10 +70,5 @@
       "priority": "urgent"
     }
   ],
-  "manualEstimatedTime": true,
-  "metadata": {
-    "lastUpdated": "2025-09-22T14:17:54.566Z",
-    "version": "1.0.0",
-    "storageType": "github"
-  }
+  "manualEstimatedTime": true
 }
