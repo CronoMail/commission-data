@@ -8,7 +8,7 @@
   "pricing": {
     "sketch": {
       "title": "Bust up",
-      "price": 4,
+      "price": 100,
       "description": "",
       "order": 0
     },
@@ -70,5 +70,10 @@
       "priority": "urgent"
     }
   ],
-  "manualEstimatedTime": true
+  "manualEstimatedTime": true,
+  "metadata": {
+    "lastUpdated": "2025-09-22T14:27:49.710Z",
+    "version": "1.0.0",
+    "storageType": "github"
+  }
 }
