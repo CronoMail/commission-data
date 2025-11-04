@@ -4,7 +4,7 @@
   "urgentSlots": 0,
   "currentQueue": 1,
   "estimatedCompletionTime": "1-2 weeks",
-  "status": "open",
+  "status": "limited",
   "pricing": {
     "sketch": {
       "title": "Bust up",
@@ -72,7 +72,7 @@
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2025-10-23T08:38:24.005Z",
+    "lastUpdated": "2025-11-04T09:00:52.627Z",
     "version": "1.0.0",
     "storageType": "github"
   }
