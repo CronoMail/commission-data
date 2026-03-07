@@ -1,8 +1,8 @@
 {
   "totalSlots": 3,
-  "availableSlots": 2,
+  "availableSlots": 3,
   "urgentSlots": 0,
-  "currentQueue": 1,
+  "currentQueue": 0,
   "estimatedCompletionTime": "1-2 weeks",
   "status": "limited",
   "pricing": {
@@ -60,20 +60,11 @@
       "dateCreated": "2025-09-15",
       "deadline": "2025-10-01",
       "priority": "normal"
-    },
-    {
-      "id": 2,
-      "clientName": "Client B",
-      "type": "fullIllustration",
-      "status": "queued",
-      "dateCreated": "2025-09-18",
-      "deadline": "2025-10-15",
-      "priority": "urgent"
     }
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-03-01T21:40:51.257Z",
+    "lastUpdated": "2026-03-07T16:12:48.106Z",
     "version": "1.0.0",
     "storageType": "github"
   }
