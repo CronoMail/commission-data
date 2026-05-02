@@ -4,7 +4,7 @@
   "urgentSlots": 0,
   "currentQueue": 0,
   "estimatedCompletionTime": "1-2 weeks",
-  "status": "limited",
+  "status": "open",
   "pricing": {
     "sketch": {
       "title": "Bust up",
@@ -59,13 +59,17 @@
       "status": "in-progress",
       "dateCreated": "2025-09-15",
       "deadline": "2025-10-01",
-      "priority": "normal"
+      "priority": "normal",
+      "createdAt": "2025-09-15",
+      "updatedAt": "2025-09-15",
+      "price": 200
     }
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-03-07T16:13:08.319Z",
+    "lastUpdated": "2026-05-02T11:52:13.011Z",
     "version": "1.0.0",
     "storageType": "github"
-  }
+  },
+  "updatedAt": "2026-05-02T11:52:13.011Z"
 }
