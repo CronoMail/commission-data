@@ -51,25 +51,12 @@
     "acceptNewCommissions": true,
     "pricingMaintenanceMode": false
   },
-  "commissions": [
-    {
-      "id": 1,
-      "clientName": "Client A",
-      "type": "fullBody",
-      "status": "in-progress",
-      "dateCreated": "2025-09-15",
-      "deadline": "2025-10-01",
-      "priority": "normal",
-      "createdAt": "2025-09-15",
-      "updatedAt": "2025-09-15",
-      "price": 200
-    }
-  ],
+  "commissions": [],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-05-02T13:00:02.567Z",
+    "lastUpdated": "2026-05-02T13:00:03.148Z",
     "version": "1.0.0",
     "storageType": "github"
   },
-  "updatedAt": "2026-05-02T13:00:02.566Z"
+  "updatedAt": "2026-05-02T13:00:03.148Z"
 }
