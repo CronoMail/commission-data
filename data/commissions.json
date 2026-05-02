@@ -1,8 +1,8 @@
 {
   "totalSlots": 3,
-  "availableSlots": 3,
+  "availableSlots": 2,
   "urgentSlots": 0,
-  "currentQueue": 0,
+  "currentQueue": 1,
   "estimatedCompletionTime": "1-2 weeks",
   "status": "open",
   "pricing": {
@@ -67,9 +67,9 @@
   ],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-05-02T11:52:27.173Z",
+    "lastUpdated": "2026-05-02T12:09:26.176Z",
     "version": "1.0.0",
     "storageType": "github"
   },
-  "updatedAt": "2026-05-02T11:52:27.173Z"
+  "updatedAt": "2026-05-02T12:09:26.176Z"
 }
