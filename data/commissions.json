@@ -49,14 +49,16 @@
     "maintenanceMode": false,
     "nextAvailability": "",
     "acceptNewCommissions": true,
-    "pricingMaintenanceMode": false
+    "pricingMaintenanceMode": false,
+    "preloaderStyle": "new",
+    "introEnabled": true
   },
   "commissions": [],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-05-03T11:26:27.111Z",
+    "lastUpdated": "2026-06-20T12:03:53.031Z",
     "version": "1.0.0",
     "storageType": "github"
   },
-  "updatedAt": "2026-05-03T11:26:27.110Z"
+  "updatedAt": "2026-06-20T12:03:53.031Z"
 }
