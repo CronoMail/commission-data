@@ -50,15 +50,15 @@
     "nextAvailability": "",
     "acceptNewCommissions": true,
     "pricingMaintenanceMode": false,
-    "preloaderStyle": "new",
+    "preloaderStyle": "old",
     "introEnabled": true
   },
   "commissions": [],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-07-06T09:25:01.693Z",
+    "lastUpdated": "2026-07-06T09:25:37.347Z",
     "version": "1.0.0",
     "storageType": "github"
   },
-  "updatedAt": "2026-07-06T09:25:01.692Z"
+  "updatedAt": "2026-07-06T09:25:37.347Z"
 }
