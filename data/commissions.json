@@ -8,25 +8,25 @@
   "pricing": {
     "sketch": {
       "title": "Bust up",
-      "price": 100,
+      "price": 70,
       "description": "Upper Body",
       "order": 0
     },
     "halfBody": {
       "title": "Half Body",
-      "price": 150,
+      "price": 100,
       "description": "Half body illustration",
       "order": 1
     },
     "fullBody": {
       "title": "Full Body",
-      "price": 200,
+      "price": 150,
       "description": "Full body illustration",
       "order": 2
     },
     "fullIllustration": {
       "title": "Full Illustration",
-      "price": 300,
+      "price": 250,
       "description": "Full illustration with background",
       "order": 3
     },
@@ -56,9 +56,9 @@
   "commissions": [],
   "manualEstimatedTime": true,
   "metadata": {
-    "lastUpdated": "2026-09-12T11:26:18.223Z",
+    "lastUpdated": "2026-09-12T11:26:18.806Z",
     "version": "1.0.0",
     "storageType": "github"
   },
-  "updatedAt": "2026-09-12T11:26:18.223Z"
+  "updatedAt": "2026-09-12T11:26:18.806Z"
 }
